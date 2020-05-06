@@ -25,3 +25,13 @@ gdscript/warnings/unsafe_property_access=true
 gdscript/warnings/unsafe_method_access=true
 gdscript/warnings/unsafe_cast=true
 gdscript/warnings/unsafe_call_argument=true
+
+[display]
+
+window/size/always_on_top=true
+window/per_pixel_transparency/allowed=true
+window/per_pixel_transparency/enabled=true
+
+[editor_plugins]
+
+enabled=PoolStringArray( "godot-git-control.funabab" )
